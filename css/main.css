@@ -338,21 +338,6 @@ template {
   display: none;
 }
 
-/* FONTS */
-@font-face {
-  font-family: "Jost";
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/jost-v13-latin-regular.woff2") format("woff2"), url("../fonts/jost-v13-latin-regular.woff") format("woff");
-}
-@font-face {
-  font-family: "DM Serif Display";
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/dm-serif-display-v10-latin-regular.woff2") format("woff2"), url("../fonts/dm-serif-display-v10-latin-regular.woff") format("woff");
-}
 /* GENERAL */
 html {
   box-sizing: border-box;
